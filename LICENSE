@@ -1,0 +1,57 @@
+MIT License
+
+Copyright (c) 2026
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 日本語説明 / Japanese Explanation
+
+MITライセンス
+
+著作権 (c) 2026
+
+このソフトウェアおよび関連するドキュメンテーション・ファイル（以下「ソフトウェア」）を所有する人物は、本ライセンスの条件に従うことで、以下の権利が無制限に与えられます：
+
+- ソフトウェアを使用する権利
+- ソフトウェアを複製する権利
+- ソフトウェアを修正する権利
+- ソフトウェアを頒布する権利
+- ソフトウェアに対して行われた修正版を使用、複製、修正、頒布する権利
+
+上記の権利を行使する場合、以下の条件を満たす必要があります：
+
+1. 本著作権表示およびこのライセンス表示を、ソフトウェアのすべてのコピーまたは実質的な部分に含めること
+2. ソフトウェアを「現状のまま」提供し、いかなる保証も行わないこと
+3. 作者または著作権者は、いかなる損害についても責任を負わないこと
+
+つまり、以下のことができます：
+- ✅ 商用・非商用での利用
+- ✅ 自由な修正・カスタマイズ
+- ✅ 配布・再配布
+- ✅ ソースコードの公開・非公開
+
+以下のことが求められます：
+- ✓ ライセンス表記の記載
+- ✓ 著作権表示の保持
+
+以下のことはできません：
+- ✗ 作者に対する責任追及
+- ✗ ライセンス・著作権表示の削除

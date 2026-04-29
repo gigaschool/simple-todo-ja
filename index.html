@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>シンプルTODOリスト</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>TODO リスト</h1>
+            <p class="subtitle">タスクを管理しましょう</p>
+        </header>
+
+        <div class="todo-input-container">
+            <input 
+                type="text" 
+                id="todoInput" 
+                class="todo-input" 
+                placeholder="新しいタスクを入力してください..."
+                autocomplete="off"
+            >
+            <button id="addBtn" class="add-btn">追加</button>
+        </div>
+
+        <div class="filter-container">
+            <button class="filter-btn active" data-filter="all">すべて</button>
+            <button class="filter-btn" data-filter="active">未完了</button>
+            <button class="filter-btn" data-filter="completed">完了</button>
+        </div>
+
+        <div class="stats">
+            <span id="totalCount" class="stat-item">合計: 0</span>
+            <span id="activeCount" class="stat-item">未完了: 0</span>
+            <span id="completedCount" class="stat-item">完了: 0</span>
+        </div>
+
+        <ul id="todoList" class="todo-list"></ul>
+
+        <div id="emptyState" class="empty-state">
+            <p>タスクはありません</p>
+        </div>
+
+        <div id="clearContainer" class="clear-container">
+            <button id="clearBtn" class="clear-btn">完了したタスクをクリア</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
